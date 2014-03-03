@@ -5,10 +5,15 @@ This project is a (in-the-making) showdown game, where the player has to click o
 
 
 Things to add:
-1. Create an actual website.
-2. Get images for characters, guns, etc.
+
+1. Website.
+
+2. Images for characters, guns, etc.
+
+3. Programming
 
 Ideas and Questions:
+
 1. Should you make it two players?
 
 2. Should there be other weapons to select from?
