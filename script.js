@@ -5,5 +5,7 @@ var userclick = true; //If this is true, it will automatically contribute to the
 
 
 
-//JQUERY MAGIC
-
+//OPPONENT
+var opponent = function(speed) {
+  this.speed = speed; 
+}
