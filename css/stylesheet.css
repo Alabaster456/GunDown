@@ -3,6 +3,7 @@ height: 100px;
 width:300px;
 background-color: green;
  border: solid black;
+ margin-bottom: -20px;
   font-size: 70px;
   color: blue;
 }
