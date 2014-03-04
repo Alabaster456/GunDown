@@ -1,0 +1,6 @@
+#p1 {
+color: blue;
+text-align: center;
+border: 10px solid black;
+border-radius: 40%;
+}
