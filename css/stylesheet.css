@@ -1,5 +1,21 @@
-#GunDown {
-border: 10px solid black;
+#Gundown {
+height: 100px;
+width:300px;
 background-color: green;
-margin-left: 40px;
+ border: solid black;
+  font-size: 70px;
+  color: blue;
+}
+#slogan {
+height: 50px;
+  width: 300px;
+  background-color: green;
+  border:solid black;
+  color: ;
+  font-size: 40px;
+}
+img {
+margin-left: 320px;
+  margin-top: -900px;
+  margin-bottom: 100px;
 }
