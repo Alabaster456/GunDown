@@ -4,7 +4,7 @@ width:300px;
 background-color: green;
  border: solid black;
   margin-left: 350px;
-  margin-bottom: 140px;
+  margin-bottom: 160px;
   font-size: 70px;
   color: blue;
  
@@ -21,9 +21,9 @@ height: 50px;
 
 }
 img {
-margin-left: 300px;
-margin-top: -400px;
-  margin-bottom: 50px;
+margin-left: 200px;
+margin-top: -420px;
+  margin-bottom: 60px;
   
   border: solid black; 
 }
