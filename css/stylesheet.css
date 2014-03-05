@@ -4,6 +4,7 @@ width:300px;
 background-color: green;
  border: solid black;
   margin-left: 350px;
+  margin-bottom: 120px;
   font-size: 70px;
   color: blue;
  
@@ -17,11 +18,13 @@ height: 50px;
   color: blue;
   font-size: 40px;
   margin-left: 350px;
+
 }
 img {
 margin-left: 350px;
 margin-top: -400px;
   margin-bottom: -80px;
+  
   border: solid black; 
 }
 #color {
