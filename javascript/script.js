@@ -4,13 +4,28 @@ var userclick = true; //If this is true, it will automatically contribute to the
 
 //HUMAN OBJECT (PLAYER)
 var human = {
-  name: find;
+    name: find(""),
+  accuracy: function(speed) {
+    human.speed = speed;
+    if(speed < 2) {
+      console.log("You're fast, cowboy!");
+      return "Your speed was" + " " + human.speed;
+    } else if(speed >= 2) {
+    console.log("You're pretty slow, my friend!");
+    return human.speed;
+    
+    } 
+    }
   };
 
-//Finds the user's name
-function find(name) {
-  return name;
+
+//Finds the user's name for the human Object
+function find() {
+  human.name = prompt("What's your name?");
+  return human.name;
+  
 }
+
 
 //VARIETY OF OPPONENTS
 var opponent = function(name, speed) { 
