@@ -12,7 +12,7 @@ var human = {
       return "Your speed was" + " " + human.speed;
     } else if(speed >= 2) {
     console.log("You're pretty slow, my friend!");
-    return human.speed;
+    return "Your speed was" + " " + human.speed;
     
     } 
     }
