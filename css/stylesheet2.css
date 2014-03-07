@@ -1,5 +1,79 @@
-div
+#hi
 {
+  border-radius: 100%;
  border: 2px solid black;
- border-radius: 100%; 
+background-color: red;
+  height: 100px;
+  width: 100px;
+  margin-top: -110px;
+margin-left: 450px;
+  position: relative;
+
+
+ font-family: Lucida Sans Unicode, sans-serif; 
+}
+#text
+{
+  text-align:center;
+  margin-top: 35px;
+}
+#hi:hover
+{
+   -webkit-box-shadow: 0 0 40px green;
+    -moz-box-shadow: 0 0 40px green;
+    box-shadow: 0 0 40px green;
+  font-family:Comic Sans MS;
+  font-style: bold;
+  
+color: white;
+  font-size: 20px;
+}
+.body
+{
+  border: 2px solid black;
+  border-radius: 30px;
+height: 400px;
+width: 800px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto; 
+        -webkit-box-shadow: 0 0 40px green;
+    -moz-box-shadow: 0 0 40px green;
+    box-shadow: 0 0 40px green;
+  
+}
+h1
+{
+font-family:"Times New Roman",Georgia,Serif;
+  color: green;
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+} 
+body
+{
+ background-color: black; 
+}
+.credits
+{
+    border-radius: 40%;
+  background-color:black;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+   margin-left: auto;
+    margin-right: auto; 
+  
+}
+li
+{
+ font-family: "Verdana";
+  color: green;
+  font-style: bold;
+  font-size:20px;
+  
+}
+a
+{
+  text-decoration: none;
 }
