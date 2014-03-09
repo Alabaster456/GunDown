@@ -94,4 +94,14 @@ margin-top: 190px;
   position: absolute;
   margin-left: 200px;
   margin-top: 170px;
-} */
+}
+
+#rhino {
+position: absolute;
+  display: none;
+  width: 80px;
+  margin-left: 590px;
+  margin-top: 180px;
+}
+
+*/
