@@ -1,4 +1,6 @@
-var charselect = function(select) {
+//Need approval and demonstration first. 
+
+/* var charselect = function(select) {
  alert("Choose yer' character!");
  $(document).ready(function() {
 $('#starz').click(function(){
@@ -14,4 +16,4 @@ alert("STARZ iz mah' name! Yer' gonna win, sir!");
 });
 };
 alert("Welcome to GunDown!");
-charselect();
+charselect(); */
