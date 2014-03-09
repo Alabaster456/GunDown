@@ -1,7 +1,7 @@
 GunDown
 =======
 
-This project is a (in-the-making) showdown game, where the player has to click on this button (in the game, of course) when a message displays to win. Precision is a must! 
+This project is a (in-the-making) showdown game, where the player has to click on this button (in the game, of course) when a message displays to win. Precision is a *must*! 
 
 Things to add:
 
@@ -19,7 +19,14 @@ Ideas and Questions:
 4. There should be a way to link this game to Facebook, Twitter and so on. 
 5. After a duel is finished, the user should be asked if they want to quit or continue to battle. (GOOD ONE!) 
 
---------------
+(Whether you're a beta tester, programmer or just a regular person, your ideas WILL BE submitted to this list if found worthy!) 
+-----------------
+
+*NOTE*
+------------
+
+Your name will be added to the credits when you've actually produced a well-enough amount of coding into these files - not by default. Forking this repo and editing these files is a free passage, so take advantage of that! :) 
+
 If you want to be apart of this project, let me know by emailing me at: yazidnoned@hotmail.com 
 
-On most days, I'm usually free. 
+On most days, I'm usually free.
