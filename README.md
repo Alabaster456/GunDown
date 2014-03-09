@@ -20,6 +20,7 @@ Ideas and Questions:
 5. After a duel is finished, the user should be asked if they want to quit or continue to battle. (GOOD ONE!) 
 
 (Whether you're a beta tester, programmer or just a regular person, your ideas WILL BE submitted to this list if found worthy!) 
+
 -----------------
 
 *NOTE*
