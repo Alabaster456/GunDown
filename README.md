@@ -6,11 +6,11 @@ This project is a (in-the-making) showdown game, where the player has to click o
 
 Things to add:
 
-1. Website.
+1. Website (COMPLETE)
 
 2. Images for characters, guns, etc.
 
-3. Programming
+3. Programming (ALMOST COMPLETE)
 
 Ideas and Questions:
 
