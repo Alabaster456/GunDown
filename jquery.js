@@ -1,8 +1,10 @@
 //Need approval and demonstration first. 
 
-/* var charselect = function(select) {
+/* alert("Welcome to GunDown!");
+var charselect = function(select) {
  alert("Choose yer' character!");
- $(document).ready(function() {
+  $(document).ready(function() { $('#starz').css("display", "initial");
+     $('#bugger').css("display", "initial");
 $('#starz').click(function(){
 alert("STARZ iz mah' name! Yer' gonna win, sir!");
   $('#starz').remove();
@@ -15,5 +17,6 @@ alert("STARZ iz mah' name! Yer' gonna win, sir!");
 });
 });
 };
-alert("Welcome to GunDown!");
-charselect(); */
+
+charselect();
+*/
