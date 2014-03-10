@@ -1,6 +1,6 @@
 //Need approval and demonstration first. 
 
-/* alert("Welcome to GunDown!");
+/*alert("Welcome to GunDown!");
 var charselect = function(select) {
  alert("Choose yer' character!");
   $(document).ready(function() {
@@ -8,12 +8,15 @@ var charselect = function(select) {
  $('#starz').css("display", "initial");
      $('#bugger').css("display", "initial");
 $('#starz').click(function(){
-alert("'STARZ iz mah' name! Yer' gonna win, sir!'");
+alert("'Starz iz mah' name! Yer' gonna win, sir!'");
   $('#bugger').remove();
   $('#rhino').remove();
   alert("You chose Starz!");
+  alert("Your opponent is..");
+  findenemy();
+  
 }), $('#bugger').click(function(){
-  alert("'Oi! Am Bugger! I'm an pure outlar', but I get round' dese' parts!'");
+  alert("'Oi, I'm Bugger! I'm an pure outlar', but I get round' dese' parts!'");
    $('#starz').remove();
   $('#rhino').remove();
   alert("You chose bugger!");
@@ -25,6 +28,18 @@ alert("'STARZ iz mah' name! Yer' gonna win, sir!'");
 });
 });
 };
-
+var findenemy = function(search) {
+  var starz = Math.floor(Math.random()*3+1);
+var rhino = Math.floor(Math.random()*3+1);
+var bugger = Math.floor(Math.random()*3+1);
+  if (starz === 1) {
+      alert("You're goin' against Starz!");
+  } else if (rhino === 2) {
+      alert("You're goin' against Rhino!");
+  } else {
+      alert("You're goin' against Bugger!");
+$('#bugger').css("display", "initial");
+  }
+};
 charselect();
 */
