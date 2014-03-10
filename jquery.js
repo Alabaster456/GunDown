@@ -1,6 +1,4 @@
-//Need approval and demonstration first. 
-
-/*alert("Welcome to GunDown!");
+alert("Welcome to GunDown!");
 var charselect = function(select) {
  alert("Choose yer' character!");
   $(document).ready(function() {
@@ -42,4 +40,4 @@ $('#bugger').css("display", "initial");
   }
 };
 charselect();
-*/
+
