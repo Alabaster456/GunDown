@@ -1,3 +1,5 @@
+// THIS CODING IS UNECESSARY FOR THE TIME BEING. MESSING WITH THE CODING IN THIS FILE DOESN'T AFFECT THE GAME ITSELF.
+
 //Variables
 var userclick = true; //If this is true, it will automatically contribute to the user's action in winning.
 //END
