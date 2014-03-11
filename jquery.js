@@ -1,7 +1,8 @@
-$(document).ready(function() {
-   alert("Welcome to GunDown!");
-
- alert("Choose yer' character!"); $('#rhino').css("display", "initial");
+alert("Welcome to GunDown!");
+var charselect = function(select) {
+ alert("Choose yer' character!");
+  $(document).ready(function() {
+    $('#rhino').css("display", "initial");
  $('#starz').css("display", "initial");
      $('#bugger').css("display", "initial");
 $('#starz').click(function(){
@@ -29,7 +30,7 @@ alert("'Starz iz mah' name! Yer' gonna win, sir!'");
   findenemy();
   });
 });
-//FUNCTION CALLED IN THE DOCUMENT
+//FUNCTION INSIDE THE DOCUMENT
 var findenemy = function() {
   var starz = Math.floor(Math.random()*3+1);
 var rhino = Math.floor(Math.random()*3+1);
@@ -45,5 +46,3 @@ var bugger = Math.floor(Math.random()*3+1);
   }
 };
   
-
-
