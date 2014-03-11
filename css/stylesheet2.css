@@ -80,9 +80,9 @@ a
   text-decoration: none;
 }
 
-/* CHARACTER POSITIONING, EDITING (Need advice and approval first) */
+/* CHARACTER POSITIONING, EDITING (approved) */
 
-/* #starz {
+ #starz {
 width: 150px;
 margin-top: 190px;
   margin-left: 95px;
@@ -104,4 +104,16 @@ position: absolute;
   margin-top: 180px;
 }
 
-*/
+/* Below are images for the characters to be displayed again */
+#starz2 {
+position: absolute;
+display: none;
+width: 150px;
+  margin-top: 190px;
+  margin-left: 180px;
+}
+#bugger2 {
+position: absolute;
+  display: none;
+  
+}
