@@ -28,7 +28,8 @@ alert("'Starz iz mah' name! Yer' gonna win, sir!'");
   alert("You chose Rhino!");
   alert("Your opponent is..");
   findenemy();
-  
+  });
+});
 //FUNCTION INSIDE THE DOCUMENT
 var findenemy = function() {
   var starz = Math.floor(Math.random()*3+1);
@@ -45,8 +46,8 @@ var bugger = Math.floor(Math.random()*3+1);
   }
 };
   
-});
-});
+
 };
 charselect();
+
 
